@@ -25,8 +25,8 @@ import child from '../images/child.png';
 
 // cars
 import suv from '../images/SUV.png';
-import van from '../images/Van.png';
-import vip from '../images/Vip.png';
+import van from '../images/van.png';
+import vip from '../images/VIP.png';
 import premium from '../images/premium.png';
 import minibus from '../images/minibus.png';
 import economy from '../images/economy.png';
