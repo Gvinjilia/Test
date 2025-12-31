@@ -1,0 +1,70 @@
+{
+    "navigation": {
+        "logo": "Logo",
+        "ride": "Ride",
+        "drive": "Drive",
+        "business": "Business",
+        "uberEats": "Uber Eats",
+        "about": "About",
+        "help": "Help"
+    },
+    "home": {
+        "title": "Go anywhere with Uber",
+        "form": {
+            "input1": {
+                "placeholder": "From: address, airport, hotel"
+            },
+            "input2": {
+                "placeholder": "To: address, airport, hotel"
+            }
+        },
+        "cars": {
+            "economy": "Economy",
+            "comfort": "Comfort",
+            "business": "Business",
+            "premium": "Premium",
+            "vip": "Vip",
+            "suv": "Suv",
+            "van": "Van",
+            "minibus": "Minibus"
+        },
+        "auth": {
+            "title": "Log in to see your account details",
+            "text": "View past trips, tailored suggestions, support resources, and more.",
+            "btnText": "Log in to your account"
+        }
+    },
+    "footer": {
+        "logo": "Logo",
+        "visitHelpCenter": "Visit Help Center",
+        "company": {
+            "title": "Company",
+            "about": "About us",
+            "offerings": "Our offerings",
+            "newsroom": "Newsroom",
+            "investors": "Investors",
+            "blog": "Blog",
+            "careers": "Careers"
+        },
+        "products": {
+            "title": "Products",
+            "ride": "Ride",
+            "drive": "Drive",
+            "eat": "Eat",
+            "uberForBussines": "Uber for Business",
+            "uberFreight": "Uber Freight",
+            "giftCards": "Gift cards"
+        },
+        "globalCitizenship": {
+            "title": "Global citizenship",
+            "safety": "Safety",
+            "sustainability": "Sustainability"
+        },
+        "travel": {
+            "title": "Travel",
+            "reserve": "Reserve",
+            "airports": "Airports",
+            "cities": "Cities"
+        }
+    }
+}
